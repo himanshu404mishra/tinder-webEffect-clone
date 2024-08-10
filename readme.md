@@ -1,7 +1,7 @@
 # This project is about creating a tinder web effect
 
 ## Note:- 
-    1. To use tailwind intellisence add tailwind.config.js file in the root of the project as mentioned in the extension docs
+    1. I used tailwind css using its play cdn
 
     2. Just code it...🔥️ 
 
