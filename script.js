@@ -68,6 +68,75 @@ let users =[
         }],
         bio: "Lorem ipsum dolor sit amet elit. Repudiandae nemo libero recusandae cum repellendus iusto.",
         isFriend: null,
+    },
+
+    {
+        displayPic: "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        profilePic: "https://plus.unsplash.com/premium_photo-1668319914124-57301e0a1850?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        pendingMessage: 4,
+        location:"Kathmandu, Nepal",
+        name: "Manabi",
+        age: 19,
+        interests: [{
+            icon: `<i class="ri-quill-pen-fill"></i>`,
+            interest: "Writing"
+        }, {
+            icon: `<i class="ri-music-2-fill"></i>`,
+            interest: "Music"
+        }],
+        bio: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae nemo libero recusandae cum repellendus iusto.",
+        isFriend: null,
+    },
+    {
+        displayPic: "https://images.unsplash.com/photo-1696114865587-1857587fdcad?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        profilePic: "https://images.unsplash.com/photo-1609505848912-b7c3b8b4beda?q=80&w=1065&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        pendingMessage: 1,
+        location:"Pokhara, Nepal",
+        name: "Palak",
+        age: 21,
+        interests: [{
+            icon: `<i class="ri-football-fill"></i>`,
+            interest: "Football"
+        }, {
+            icon: `<i class="ri-book-read-fill"></i>`,
+            interest: "Reading"
+        }],
+        bio: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae nemo libero recusandae cum repellendus iusto. Nemo libero recusandae cum repellendus iusto.",
+        isFriend: null,
+    },
+    {
+        displayPic: "https://images.unsplash.com/photo-1674151503786-04ee49777538?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        profilePic: "https://images.unsplash.com/photo-1521676259650-675b5bfec1ae?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        pendingMessage: 2,
+        location:"Mumbai, India",
+        name: "Sherya",
+        age: 24,
+        interests: [{
+            icon: `<i class="ri-macbook-fill"></i>`,
+            interest: "Coding"
+        }, {
+             icon: `<i class="ri-music-2-fill"></i>`,
+            interest: "Music"
+        }],
+        bio: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        isFriend: null,
+    },
+    {
+        displayPic: "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        profilePic: "https://images.unsplash.com/photo-1516726817505-f5ed825624d8?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        pendingMessage: 10,
+        location:"New York, USA",
+        name: "Sunidhi",
+        age: 26,
+        interests: [{
+            icon: `<i class="ri-road-map-fill"></i>`,
+            interest: "Travelling"
+        }, {
+            icon: `<i class="ri-gamepad-fill"></i>`,
+            interest: "Gaming"
+        }],
+        bio: "Lorem ipsum dolor sit amet elit. Repudiandae nemo libero recusandae cum repellendus iusto.",
+        isFriend: null,
     }
 ]
 function select(elem){
